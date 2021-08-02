@@ -1,0 +1,25 @@
+.Person{
+  background-color:rgb(224, 170, 224);
+  list-style-type: square;
+
+  list-style-position: inside;
+ 
+}
+.monboutton{
+  display: inline-block;
+background-color: #c6b6db;
+border-radius: 10px;
+border: 4px double #cccccc;
+color: #eeeeee;
+text-align: center;
+font-size: 28px;
+padding: 10px;
+width: 200px;
+}
+.compteur{
+  background-color: #c6b6db;
+  
+}
+h1{
+color: violet;
+}
